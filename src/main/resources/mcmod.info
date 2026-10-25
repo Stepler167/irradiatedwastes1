@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "irradiatedwastes",
+    "name": "Irradiated Wastes",
+    "description": "Adds a radioactive wasteland biome with bunkers, ruined cooling towers, barrel fields and craters.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": [],
+    "dependencies": ["hbm"]
+  }
+]
